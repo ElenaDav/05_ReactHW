@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.Message {
+  min-height: 100vh;
+  color: chocolate;
+  background-color: rgb(106, 106, 201);
+  border-radius: 15px;
+  text-align: center;
+  justify-content: center;
+}
